@@ -7,4 +7,4 @@ This project is built with .
 - React
 - shadcn-ui
 - Tailwind CSS
-1. **Live Demo Link**: The live demo on Vercel click here: [Vercel Demo] (https://agri-dom.vercel.app/)
+1. **Live Demo Link**: The live demo on Vercel click here: [Vercel Demo](https://agri-dom.vercel.app/)
